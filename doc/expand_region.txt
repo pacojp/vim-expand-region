@@ -1,4 +1,4 @@
-*vim-expand-region.txt* Incremental visual selection
+*vim-expand-region.txt* Incremental visual selection UTF-8対応
 
                                         __                   _
        ___  _  ______  ____ _____  ____/ /  ________  ____ _(_)___  ____
